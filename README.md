@@ -4,12 +4,15 @@ I am a third year Computer Science student at Università degli Studi di Salerno
 
 
 This profile contains repositories for projects done as coursework, as well as personal projects.
-## Interests
+
+![FraPCA](https://github-readme-stats.vercel.app/api?username=FraPCA&theme=dracula)
+## My interests
 I focus mostly on PC targeted Software Engineering projects, shell scripts and Retro Computing.
 <br>
 I am also interested in Unix program development, Reverse Engineering of executable files and Security research.
-
-## Current work
+<br>
+I usually work with Python, C/C++ and Java. 
+## Currently working on
 - Composing song for Antinomia
 - Porting batch scripts to Powershell and uploading them to GitHub
 
