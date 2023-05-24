@@ -1,4 +1,18 @@
-### Hi there 👋
+<h1 align = "center"> Francesco Maria Puca </h1>
+
+I am a third year Computer Science student at Università degli Studi di Salerno.
+
+
+This profile contains repositories for projects done as coursework, as well as personal projects.
+## Interests
+I focus mostly on PC targeted Software Engineering projects, shell scripts and Retro Computing.
+<br>
+I am also interested in Unix program development, Reverse Engineering of executable files and Security research.
+
+## Current work
+- Composing song for Antinomia
+- Porting batch scripts to Powershell and uploading them to GitHub
+
 
 <!--
 **FraPCA/FraPCA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
