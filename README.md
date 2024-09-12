@@ -13,7 +13,6 @@ I am also interested in Unix program development, Reverse Engineering of executa
 <br>
 I usually work with Python, C/C++ and Java. 
 ## Currently working on
-- Composing song for Antinomia
 - Porting batch scripts to Powershell and uploading them to GitHub
 
 
